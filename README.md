@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/SohambangarCODE/DSA-in-JAVA/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/SohambangarCODE/DSA-in-JAVA/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/SohambangarCODE/DSA-in-JAVA/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/SohambangarCODE/DSA-in-JAVA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SohambangarCODE/DSA-in-JAVA/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/SohambangarCODE/DSA-in-JAVA/tree/master/0238-product-of-array-except-self) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/SohambangarCODE/DSA-in-JAVA/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/SohambangarCODE/DSA-in-JAVA/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/SohambangarCODE/DSA-in-JAVA/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/SohambangarCODE/DSA-in-JAVA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SohambangarCODE/DSA-in-JAVA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/SohambangarCODE/DSA-in-JAVA/tree/master/0242-valid-anagram) |
@@ -66,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/SohambangarCODE/DSA-in-JAVA/tree/master/0238-product-of-array-except-self) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/SohambangarCODE/DSA-in-JAVA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
