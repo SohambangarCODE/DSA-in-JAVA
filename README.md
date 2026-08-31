@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SohambangarCODE/DSA-in-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/SohambangarCODE/DSA-in-JAVA/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SohambangarCODE/DSA-in-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/SohambangarCODE/DSA-in-JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/SohambangarCODE/DSA-in-JAVA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SohambangarCODE/DSA-in-JAVA/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/SohambangarCODE/DSA-in-JAVA/tree/master/0238-product-of-array-except-self) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SohambangarCODE/DSA-in-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/SohambangarCODE/DSA-in-JAVA/tree/master/0076-minimum-window-substring) |
+| [0209-minimum-size-subarray-sum](https://github.com/SohambangarCODE/DSA-in-JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/SohambangarCODE/DSA-in-JAVA/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/SohambangarCODE/DSA-in-JAVA/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/SohambangarCODE/DSA-in-JAVA/tree/master/0424-longest-repeating-character-replacement) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/SohambangarCODE/DSA-in-JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/SohambangarCODE/DSA-in-JAVA/tree/master/0238-product-of-array-except-self) |
 ## Union-Find
 |  |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SohambangarCODE/DSA-in-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/SohambangarCODE/DSA-in-JAVA/tree/master/0209-minimum-size-subarray-sum) |
 ## Greedy
 |  |
 | ------- |
