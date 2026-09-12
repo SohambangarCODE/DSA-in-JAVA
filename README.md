@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0007-reverse-integer](https://github.com/SohambangarCODE/DSA-in-JAVA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/SohambangarCODE/DSA-in-JAVA/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/SohambangarCODE/DSA-in-JAVA/tree/master/0050-powx-n) |
 ## Sorting
 |  |
 | ------- |
@@ -158,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SohambangarCODE/DSA-in-JAVA/tree/master/0005-longest-palindromic-substring) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/SohambangarCODE/DSA-in-JAVA/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
