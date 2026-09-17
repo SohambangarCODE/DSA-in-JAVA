@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0239-sliding-window-maximum](https://github.com/SohambangarCODE/DSA-in-JAVA/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/SohambangarCODE/DSA-in-JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0643-maximum-average-subarray-i](https://github.com/SohambangarCODE/DSA-in-JAVA/tree/master/0643-maximum-average-subarray-i) |
+| [0739-daily-temperatures](https://github.com/SohambangarCODE/DSA-in-JAVA/tree/master/0739-daily-temperatures) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SohambangarCODE/DSA-in-JAVA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
@@ -136,10 +137,12 @@ A collection of LeetCode questions to ace the coding interview!
 | [0020-valid-parentheses](https://github.com/SohambangarCODE/DSA-in-JAVA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SohambangarCODE/DSA-in-JAVA/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/SohambangarCODE/DSA-in-JAVA/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/SohambangarCODE/DSA-in-JAVA/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SohambangarCODE/DSA-in-JAVA/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/SohambangarCODE/DSA-in-JAVA/tree/master/0739-daily-temperatures) |
 ## Bracket Sequences
 |  |
 | ------- |
